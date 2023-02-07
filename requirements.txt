@@ -1,0 +1,6 @@
+###### Requirements with Version Specifiers ######`
+          
+numpy ~= 1.18    
+pandas ~= 1.0 
+matplotlib ~=3.4                   
+ipywidgets ~= 7.6   
